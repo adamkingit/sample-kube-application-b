@@ -4,7 +4,7 @@ metadata:
   name: branch-configmap-1
   namespace: default
   annotations:
-    version: "v0.0.1"
+    version: "v0.0.2"
   labels:
     razee/watch-resource: "lite"
 data:
@@ -17,7 +17,7 @@ metadata:
   name: branch-configmap-2
   namespace: default
   annotations:
-    version: "v0.0.1"
+    version: "v0.0.2"
   labels:
     razee/watch-resource: "lite"
 data:
